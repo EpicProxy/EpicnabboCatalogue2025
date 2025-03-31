@@ -1,5 +1,5 @@
 # EpicnabboCatalogue2025
-Dev release
+Dev release version 1.0 31-3-2025
 # 
 
 Vanaf nu is de dev release beschikbaar 
