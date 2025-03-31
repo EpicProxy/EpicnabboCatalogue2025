@@ -1,0 +1,12 @@
+### Kleur Codes ###
+<B>- iedereen -</B><br>
+rood, blaauw, groen, silver,<br>
+grijs, groenblauw, olijfgroen,<br>
+paars, marineblauw, kastanjebruin,<br>
+cyaan, geel, goud<br><br>
+<B>- V.I.P. -</B><br>
+regenboog, mix_blaauw, mix_rood,<br>
+mix_groen, mix_paars<br>
+<br>
+Wil je dus b.v. je naam blaauw gebruik dan <B>:naamkleur blaauw</B><br>
+Om het uit te zetten gebruik dan <B>:naamkleur uit</B>
